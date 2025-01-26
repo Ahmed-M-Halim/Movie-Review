@@ -83,4 +83,3 @@ if st.button('Predict'):
             st.write('Positive review')
         else:
             st.write('Negative review')
-st.write(f"Prediction score: {prediction}")
